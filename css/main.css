@@ -1,10 +1,12 @@
 /* Global rules */
 
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400&family=Raleway:ital,wght@1,600&family=Roboto+Mono&family=Sora:wght@100&display=swap');
 
 html {
     background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    /* background-image: url("../images/nemo.png"); */
+    font-family: 'Inter', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -13,6 +15,7 @@ html {
     color: #000; 
     background: #ff0;
 }
+
 
 h1 {
     font-weight: normal;
